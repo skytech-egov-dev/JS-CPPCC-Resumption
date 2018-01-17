@@ -32,7 +32,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://192.168.0.105:8083/jszxpt/mobile/ios/icon.png</string>
+                        <string>http://192.168.0.105:8083/jszxpt/mobile/ios/icon-fullsize.png</string>
                     </dict>                    
                 </array>
                 <key>metadata</key>
