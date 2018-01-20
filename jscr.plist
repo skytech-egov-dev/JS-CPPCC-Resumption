@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://192.168.0.105:9003/jszxpt/mobile/ios/JSCPPCCResumption.ipa</string>
+                        <string>http://218.94.0.7:9003/jszxpt/mobile/ios/JSCPPCCResumption.ipa</string>
                     </dict>
 
                     <!-- display-image: the icon to display during download. -->
@@ -22,7 +22,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://192.168.0.105:9003/jszxpt/mobile/ios/icon.png</string>
+                        <string>http://218.94.0.7:9003/jszxpt/mobile/ios/icon.png</string>
                     </dict>
                     
                     <!-- full-size-image: the large 512×512 icon used by iTunes. -->
@@ -32,7 +32,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://192.168.0.105:9003/jszxpt/mobile/ios/icon-fullsize.png</string>
+                        <string>http://218.94.0.7:9003/jszxpt/mobile/ios/icon-fullsize.png</string>
                     </dict>                    
                 </array>
                 <key>metadata</key>
@@ -40,7 +40,7 @@
                     <key>bundle-identifier</key>
                     <string>com.skytech.JSCPPCCResumption</string>
                     <key>bundle-version</key>
-                    <string>0.1.0</string>
+                    <string>0.2.1</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
